@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="CRMModelStoreContainer" CdmEntityContainer="CRMEntities">
+    <EntitySetMapping Name="Personels">
+      <EntityTypeMapping TypeName="CRMModel.Personel">
+        <MappingFragment StoreEntitySet="Personel">
+          <ScalarProperty Name="P_id" ColumnName="P_id" />
+          <ScalarProperty Name="tc" ColumnName="tc" />
+          <ScalarProperty Name="ad" ColumnName="ad" />
+          <ScalarProperty Name="soyad" ColumnName="soyad" />
+          <ScalarProperty Name="cinsiyet" ColumnName="cinsiyet" />
+          <ScalarProperty Name="dogum_tarihi" ColumnName="dogum_tarihi" />
+          <ScalarProperty Name="gorev" ColumnName="gorev" />
+          <ScalarProperty Name="tel1" ColumnName="tel1" />
+          <ScalarProperty Name="tel2" ColumnName="tel2" />
+          <ScalarProperty Name="ep1" ColumnName="ep1" />
+          <ScalarProperty Name="ep2" ColumnName="ep2" />
+          <ScalarProperty Name="adres" ColumnName="adres" />
+          <ScalarProperty Name="il" ColumnName="il" />
+          <ScalarProperty Name="ilce" ColumnName="ilce" />
+          <ScalarProperty Name="yetki" ColumnName="yetki" />
+          <ScalarProperty Name="sifre" ColumnName="sifre" />
+          <ScalarProperty Name="foto" ColumnName="foto" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

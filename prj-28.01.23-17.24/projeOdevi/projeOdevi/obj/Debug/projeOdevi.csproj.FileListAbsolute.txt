@@ -1,0 +1,255 @@
+C:\Users\oztas\OneDrive\Masaüstü\prj-18.12.22 - 15.27\projeOdevi\projeOdevi\bin\Debug\projeOdevi.exe.config
+C:\Users\oztas\OneDrive\Masaüstü\prj-18.12.22 - 15.27\projeOdevi\projeOdevi\bin\Debug\projeOdevi.exe
+C:\Users\oztas\OneDrive\Masaüstü\prj-18.12.22 - 15.27\projeOdevi\projeOdevi\bin\Debug\projeOdevi.pdb
+C:\Users\oztas\OneDrive\Masaüstü\prj-18.12.22 - 15.27\projeOdevi\projeOdevi\obj\Debug\projeOdevi.csproj.AssemblyReference.cache
+C:\Users\oztas\OneDrive\Masaüstü\prj-18.12.22 - 15.27\projeOdevi\projeOdevi\obj\Debug\projeOdevi.csproj.SuggestedBindingRedirects.cache
+C:\Users\oztas\OneDrive\Masaüstü\prj-18.12.22 - 15.27\projeOdevi\projeOdevi\obj\Debug\projeOdevi.Properties.Resources.resources
+C:\Users\oztas\OneDrive\Masaüstü\prj-18.12.22 - 15.27\projeOdevi\projeOdevi\obj\Debug\projeOdevi.csproj.GenerateResource.cache
+C:\Users\oztas\OneDrive\Masaüstü\prj-18.12.22 - 15.27\projeOdevi\projeOdevi\obj\Debug\projeOdevi.csproj.CoreCompileInputs.cache
+C:\Users\oztas\OneDrive\Masaüstü\prj-18.12.22 - 15.27\projeOdevi\projeOdevi\obj\Debug\projeOdevi.exe
+C:\Users\oztas\OneDrive\Masaüstü\prj-18.12.22 - 15.27\projeOdevi\projeOdevi\obj\Debug\projeOdevi.pdb
+C:\Users\oztas\OneDrive\Masaüstü\prj-18.12.22 - 15.27\projeOdevi\projeOdevi\obj\Debug\projeOdevi.AnaSayfa.resources
+C:\Users\oztas\OneDrive\Masaüstü\prj-18.12.22 - 15.27\projeOdevi\projeOdevi\obj\Debug\projeOdevi.Profil.resources
+C:\Users\oztas\OneDrive\Masaüstü\prj-18.12.22 - 15.27\projeOdevi\projeOdevi\obj\Debug\projeOdevi.Musteriler.resources
+C:\Users\oztas\OneDrive\Masaüstü\prj-23.12.22 - 01.32\projeOdevi\projeOdevi\obj\Debug\projeOdevi.csproj.AssemblyReference.cache
+C:\Users\oztas\OneDrive\Masaüstü\prj-23.12.22 - 01.32\projeOdevi\projeOdevi\obj\Debug\projeOdevi.csproj.SuggestedBindingRedirects.cache
+C:\Users\oztas\OneDrive\Masaüstü\prj-23.12.22 - 01.32\projeOdevi\projeOdevi\obj\Debug\projeOdevi.AnaSayfa.resources
+C:\Users\oztas\OneDrive\Masaüstü\prj-23.12.22 - 01.32\projeOdevi\projeOdevi\obj\Debug\projeOdevi.Musteriler.resources
+C:\Users\oztas\OneDrive\Masaüstü\prj-23.12.22 - 01.32\projeOdevi\projeOdevi\obj\Debug\projeOdevi.Profil.resources
+C:\Users\oztas\OneDrive\Masaüstü\prj-23.12.22 - 01.32\projeOdevi\projeOdevi\obj\Debug\projeOdevi.Properties.Resources.resources
+C:\Users\oztas\OneDrive\Masaüstü\prj-23.12.22 - 01.32\projeOdevi\projeOdevi\obj\Debug\projeOdevi.csproj.GenerateResource.cache
+C:\Users\oztas\OneDrive\Masaüstü\prj-23.12.22 - 01.32\projeOdevi\projeOdevi\obj\Debug\projeOdevi.csproj.CoreCompileInputs.cache
+C:\Users\oztas\OneDrive\Masaüstü\prj-23.12.22 - 01.32\projeOdevi\projeOdevi\obj\Debug\projeOdevi.exe
+C:\Users\oztas\OneDrive\Masaüstü\prj-23.12.22 - 01.32\projeOdevi\projeOdevi\obj\Debug\projeOdevi.pdb
+C:\Users\oztas\OneDrive\Masaüstü\prj-23.12.22 - 01.32\projeOdevi\projeOdevi\bin\Debug\projeOdevi.exe.config
+C:\Users\oztas\OneDrive\Masaüstü\prj-23.12.22 - 01.32\projeOdevi\projeOdevi\bin\Debug\projeOdevi.exe
+C:\Users\oztas\OneDrive\Masaüstü\prj-23.12.22 - 01.32\projeOdevi\projeOdevi\bin\Debug\projeOdevi.pdb
+C:\Users\oztas\OneDrive\Masaüstü\prj-24.12.22 -15.41\projeOdevi\projeOdevi\obj\Debug\projeOdevi.csproj.AssemblyReference.cache
+C:\Users\oztas\OneDrive\Masaüstü\prj-24.12.22 -15.41\projeOdevi\projeOdevi\obj\Debug\projeOdevi.csproj.SuggestedBindingRedirects.cache
+C:\Users\oztas\OneDrive\Masaüstü\prj-24.12.22 -15.41\projeOdevi\projeOdevi\obj\Debug\projeOdevi.AnaSayfa.resources
+C:\Users\oztas\OneDrive\Masaüstü\prj-24.12.22 -15.41\projeOdevi\projeOdevi\obj\Debug\projeOdevi.Musteriler.resources
+C:\Users\oztas\OneDrive\Masaüstü\prj-24.12.22 -15.41\projeOdevi\projeOdevi\obj\Debug\projeOdevi.Profil.resources
+C:\Users\oztas\OneDrive\Masaüstü\prj-24.12.22 -15.41\projeOdevi\projeOdevi\obj\Debug\projeOdevi.Properties.Resources.resources
+C:\Users\oztas\OneDrive\Masaüstü\prj-24.12.22 -15.41\projeOdevi\projeOdevi\obj\Debug\projeOdevi.csproj.GenerateResource.cache
+C:\Users\oztas\OneDrive\Masaüstü\prj-24.12.22 -15.41\projeOdevi\projeOdevi\obj\Debug\projeOdevi.csproj.CoreCompileInputs.cache
+C:\Users\oztas\OneDrive\Masaüstü\prj-24.12.22 -15.41\projeOdevi\projeOdevi\obj\Debug\projeOdevi.exe
+C:\Users\oztas\OneDrive\Masaüstü\prj-24.12.22 -15.41\projeOdevi\projeOdevi\obj\Debug\projeOdevi.pdb
+C:\Users\oztas\OneDrive\Masaüstü\prj-24.12.22 -15.41\projeOdevi\projeOdevi\bin\Debug\projeOdevi.exe.config
+C:\Users\oztas\OneDrive\Masaüstü\prj-24.12.22 -15.41\projeOdevi\projeOdevi\bin\Debug\projeOdevi.exe
+C:\Users\oztas\OneDrive\Masaüstü\prj-24.12.22 -15.41\projeOdevi\projeOdevi\bin\Debug\projeOdevi.pdb
+C:\Users\oztas\OneDrive\Masaüstü\prj-24.12.22 -15.41 - Kopya\projeOdevi\projeOdevi\bin\Debug\projeOdevi.exe.config
+C:\Users\oztas\OneDrive\Masaüstü\prj-24.12.22 -15.41 - Kopya\projeOdevi\projeOdevi\bin\Debug\projeOdevi.exe
+C:\Users\oztas\OneDrive\Masaüstü\prj-24.12.22 -15.41 - Kopya\projeOdevi\projeOdevi\bin\Debug\projeOdevi.pdb
+C:\Users\oztas\OneDrive\Masaüstü\prj-24.12.22 -15.41 - Kopya\projeOdevi\projeOdevi\obj\Debug\projeOdevi.csproj.AssemblyReference.cache
+C:\Users\oztas\OneDrive\Masaüstü\prj-24.12.22 -15.41 - Kopya\projeOdevi\projeOdevi\obj\Debug\projeOdevi.csproj.SuggestedBindingRedirects.cache
+C:\Users\oztas\OneDrive\Masaüstü\prj-24.12.22 -15.41 - Kopya\projeOdevi\projeOdevi\obj\Debug\projeOdevi.AnaSayfa.resources
+C:\Users\oztas\OneDrive\Masaüstü\prj-24.12.22 -15.41 - Kopya\projeOdevi\projeOdevi\obj\Debug\projeOdevi.Musteriler.resources
+C:\Users\oztas\OneDrive\Masaüstü\prj-24.12.22 -15.41 - Kopya\projeOdevi\projeOdevi\obj\Debug\projeOdevi.Profil.resources
+C:\Users\oztas\OneDrive\Masaüstü\prj-24.12.22 -15.41 - Kopya\projeOdevi\projeOdevi\obj\Debug\projeOdevi.Properties.Resources.resources
+C:\Users\oztas\OneDrive\Masaüstü\prj-24.12.22 -15.41 - Kopya\projeOdevi\projeOdevi\obj\Debug\projeOdevi.csproj.GenerateResource.cache
+C:\Users\oztas\OneDrive\Masaüstü\prj-24.12.22 -15.41 - Kopya\projeOdevi\projeOdevi\obj\Debug\projeOdevi.csproj.CoreCompileInputs.cache
+C:\Users\oztas\OneDrive\Masaüstü\prj-24.12.22 -15.41 - Kopya\projeOdevi\projeOdevi\obj\Debug\projeOdevi.exe
+C:\Users\oztas\OneDrive\Masaüstü\prj-24.12.22 -15.41 - Kopya\projeOdevi\projeOdevi\obj\Debug\projeOdevi.pdb
+C:\Users\oztas\OneDrive\Masaüstü\prj-24.12.22 -15.50\projeOdevi\projeOdevi\bin\Debug\projeOdevi.exe.config
+C:\Users\oztas\OneDrive\Masaüstü\prj-24.12.22 -15.50\projeOdevi\projeOdevi\bin\Debug\projeOdevi.exe
+C:\Users\oztas\OneDrive\Masaüstü\prj-24.12.22 -15.50\projeOdevi\projeOdevi\bin\Debug\projeOdevi.pdb
+C:\Users\oztas\OneDrive\Masaüstü\prj-24.12.22 -15.50\projeOdevi\projeOdevi\obj\Debug\projeOdevi.csproj.AssemblyReference.cache
+C:\Users\oztas\OneDrive\Masaüstü\prj-24.12.22 -15.50\projeOdevi\projeOdevi\obj\Debug\projeOdevi.csproj.SuggestedBindingRedirects.cache
+C:\Users\oztas\OneDrive\Masaüstü\prj-24.12.22 -15.50\projeOdevi\projeOdevi\obj\Debug\projeOdevi.AnaSayfa.resources
+C:\Users\oztas\OneDrive\Masaüstü\prj-24.12.22 -15.50\projeOdevi\projeOdevi\obj\Debug\projeOdevi.Musteriler.resources
+C:\Users\oztas\OneDrive\Masaüstü\prj-24.12.22 -15.50\projeOdevi\projeOdevi\obj\Debug\projeOdevi.Profil.resources
+C:\Users\oztas\OneDrive\Masaüstü\prj-24.12.22 -15.50\projeOdevi\projeOdevi\obj\Debug\projeOdevi.Properties.Resources.resources
+C:\Users\oztas\OneDrive\Masaüstü\prj-24.12.22 -15.50\projeOdevi\projeOdevi\obj\Debug\projeOdevi.csproj.GenerateResource.cache
+C:\Users\oztas\OneDrive\Masaüstü\prj-24.12.22 -15.50\projeOdevi\projeOdevi\obj\Debug\projeOdevi.csproj.CoreCompileInputs.cache
+C:\Users\oztas\OneDrive\Masaüstü\prj-24.12.22 -15.50\projeOdevi\projeOdevi\obj\Debug\projeOdevi.exe
+C:\Users\oztas\OneDrive\Masaüstü\prj-24.12.22 -15.50\projeOdevi\projeOdevi\obj\Debug\projeOdevi.pdb
+C:\Users\oztas\OneDrive\Masaüstü\prj-24.12.22 -15.50\projeOdevi\projeOdevi\obj\Debug\projeOdevi.login.resources
+C:\Users\oztas\OneDrive\Masaüstü\prj-26.12.22 -04.15\projeOdevi\projeOdevi\bin\Debug\projeOdevi.exe.config
+C:\Users\oztas\OneDrive\Masaüstü\prj-26.12.22 -04.15\projeOdevi\projeOdevi\bin\Debug\projeOdevi.exe
+C:\Users\oztas\OneDrive\Masaüstü\prj-26.12.22 -04.15\projeOdevi\projeOdevi\bin\Debug\projeOdevi.pdb
+C:\Users\oztas\OneDrive\Masaüstü\prj-26.12.22 -04.15\projeOdevi\projeOdevi\obj\Debug\projeOdevi.csproj.AssemblyReference.cache
+C:\Users\oztas\OneDrive\Masaüstü\prj-26.12.22 -04.15\projeOdevi\projeOdevi\obj\Debug\projeOdevi.csproj.SuggestedBindingRedirects.cache
+C:\Users\oztas\OneDrive\Masaüstü\prj-26.12.22 -04.15\projeOdevi\projeOdevi\obj\Debug\projeOdevi.AnaSayfa.resources
+C:\Users\oztas\OneDrive\Masaüstü\prj-26.12.22 -04.15\projeOdevi\projeOdevi\obj\Debug\projeOdevi.login.resources
+C:\Users\oztas\OneDrive\Masaüstü\prj-26.12.22 -04.15\projeOdevi\projeOdevi\obj\Debug\projeOdevi.Musteriler.resources
+C:\Users\oztas\OneDrive\Masaüstü\prj-26.12.22 -04.15\projeOdevi\projeOdevi\obj\Debug\projeOdevi.Profil.resources
+C:\Users\oztas\OneDrive\Masaüstü\prj-26.12.22 -04.15\projeOdevi\projeOdevi\obj\Debug\projeOdevi.Properties.Resources.resources
+C:\Users\oztas\OneDrive\Masaüstü\prj-26.12.22 -04.15\projeOdevi\projeOdevi\obj\Debug\projeOdevi.csproj.GenerateResource.cache
+C:\Users\oztas\OneDrive\Masaüstü\prj-26.12.22 -04.15\projeOdevi\projeOdevi\obj\Debug\projeOdevi.csproj.CoreCompileInputs.cache
+C:\Users\oztas\OneDrive\Masaüstü\prj-26.12.22 -04.15\projeOdevi\projeOdevi\obj\Debug\projeOdevi.exe
+C:\Users\oztas\OneDrive\Masaüstü\prj-26.12.22 -04.15\projeOdevi\projeOdevi\obj\Debug\projeOdevi.pdb
+C:\Users\oztas\OneDrive\Masaüstü\prj-26.12.22 -13.50\projeOdevi\projeOdevi\bin\Debug\projeOdevi.exe.config
+C:\Users\oztas\OneDrive\Masaüstü\prj-26.12.22 -13.50\projeOdevi\projeOdevi\bin\Debug\projeOdevi.exe
+C:\Users\oztas\OneDrive\Masaüstü\prj-26.12.22 -13.50\projeOdevi\projeOdevi\bin\Debug\projeOdevi.pdb
+C:\Users\oztas\OneDrive\Masaüstü\prj-26.12.22 -13.50\projeOdevi\projeOdevi\obj\Debug\projeOdevi.csproj.AssemblyReference.cache
+C:\Users\oztas\OneDrive\Masaüstü\prj-26.12.22 -13.50\projeOdevi\projeOdevi\obj\Debug\projeOdevi.csproj.SuggestedBindingRedirects.cache
+C:\Users\oztas\OneDrive\Masaüstü\prj-26.12.22 -13.50\projeOdevi\projeOdevi\obj\Debug\projeOdevi.AnaSayfa.resources
+C:\Users\oztas\OneDrive\Masaüstü\prj-26.12.22 -13.50\projeOdevi\projeOdevi\obj\Debug\projeOdevi.login.resources
+C:\Users\oztas\OneDrive\Masaüstü\prj-26.12.22 -13.50\projeOdevi\projeOdevi\obj\Debug\projeOdevi.Musteriler.resources
+C:\Users\oztas\OneDrive\Masaüstü\prj-26.12.22 -13.50\projeOdevi\projeOdevi\obj\Debug\projeOdevi.Profil.resources
+C:\Users\oztas\OneDrive\Masaüstü\prj-26.12.22 -13.50\projeOdevi\projeOdevi\obj\Debug\projeOdevi.Properties.Resources.resources
+C:\Users\oztas\OneDrive\Masaüstü\prj-26.12.22 -13.50\projeOdevi\projeOdevi\obj\Debug\projeOdevi.csproj.GenerateResource.cache
+C:\Users\oztas\OneDrive\Masaüstü\prj-26.12.22 -13.50\projeOdevi\projeOdevi\obj\Debug\projeOdevi.csproj.CoreCompileInputs.cache
+C:\Users\oztas\OneDrive\Masaüstü\prj-26.12.22 -13.50\projeOdevi\projeOdevi\obj\Debug\projeOdevi.exe
+C:\Users\oztas\OneDrive\Masaüstü\prj-26.12.22 -13.50\projeOdevi\projeOdevi\obj\Debug\projeOdevi.pdb
+C:\Users\oztas\OneDrive\Masaüstü\prj-26.12.22 -16.07\projeOdevi\projeOdevi\bin\Debug\projeOdevi.exe.config
+C:\Users\oztas\OneDrive\Masaüstü\prj-26.12.22 -16.07\projeOdevi\projeOdevi\bin\Debug\projeOdevi.exe
+C:\Users\oztas\OneDrive\Masaüstü\prj-26.12.22 -16.07\projeOdevi\projeOdevi\bin\Debug\projeOdevi.pdb
+C:\Users\oztas\OneDrive\Masaüstü\prj-26.12.22 -16.07\projeOdevi\projeOdevi\bin\Debug\EntityFramework.dll
+C:\Users\oztas\OneDrive\Masaüstü\prj-26.12.22 -16.07\projeOdevi\projeOdevi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\oztas\OneDrive\Masaüstü\prj-26.12.22 -16.07\projeOdevi\projeOdevi\bin\Debug\EntityFramework.xml
+C:\Users\oztas\OneDrive\Masaüstü\prj-26.12.22 -16.07\projeOdevi\projeOdevi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\oztas\OneDrive\Masaüstü\prj-26.12.22 -16.07\projeOdevi\projeOdevi\obj\Debug\projeOdevi.csproj.AssemblyReference.cache
+C:\Users\oztas\OneDrive\Masaüstü\prj-26.12.22 -16.07\projeOdevi\projeOdevi\obj\Debug\projeOdevi.csproj.SuggestedBindingRedirects.cache
+C:\Users\oztas\OneDrive\Masaüstü\prj-26.12.22 -16.07\projeOdevi\projeOdevi\obj\Debug\projeOdevi.AnaSayfa.resources
+C:\Users\oztas\OneDrive\Masaüstü\prj-26.12.22 -16.07\projeOdevi\projeOdevi\obj\Debug\projeOdevi.login.resources
+C:\Users\oztas\OneDrive\Masaüstü\prj-26.12.22 -16.07\projeOdevi\projeOdevi\obj\Debug\projeOdevi.Musteriler.resources
+C:\Users\oztas\OneDrive\Masaüstü\prj-26.12.22 -16.07\projeOdevi\projeOdevi\obj\Debug\projeOdevi.Profil.resources
+C:\Users\oztas\OneDrive\Masaüstü\prj-26.12.22 -16.07\projeOdevi\projeOdevi\obj\Debug\projeOdevi.Properties.Resources.resources
+C:\Users\oztas\OneDrive\Masaüstü\prj-26.12.22 -16.07\projeOdevi\projeOdevi\obj\Debug\projeOdevi.csproj.GenerateResource.cache
+C:\Users\oztas\OneDrive\Masaüstü\prj-26.12.22 -16.07\projeOdevi\projeOdevi\obj\Debug\projeOdevi.csproj.CoreCompileInputs.cache
+C:\Users\oztas\OneDrive\Masaüstü\prj-26.12.22 -16.07\projeOdevi\projeOdevi\obj\Debug\projeOdevi.csproj.CopyComplete
+C:\Users\oztas\OneDrive\Masaüstü\prj-26.12.22 -16.07\projeOdevi\projeOdevi\obj\Debug\projeOdevi.exe
+C:\Users\oztas\OneDrive\Masaüstü\prj-26.12.22 -16.07\projeOdevi\projeOdevi\obj\Debug\projeOdevi.pdb
+C:\Users\oztas\OneDrive\Masaüstü\prj-26.12.22 -16.07\projeOdevi\projeOdevi\obj\Debug\projeOdevi.sifreunuttum.resources
+C:\Users\oztas\OneDrive\Masaüstü\prj-26.12.22 -16.07\projeOdevi\projeOdevi\obj\Debug\projeOdevi.Forum.resources
+C:\Users\oztas\OneDrive\Masaüstü\prj-28.12.2022 - 22.51\projeOdevi\projeOdevi\bin\Debug\projeOdevi.exe.config
+C:\Users\oztas\OneDrive\Masaüstü\prj-28.12.2022 - 22.51\projeOdevi\projeOdevi\bin\Debug\projeOdevi.exe
+C:\Users\oztas\OneDrive\Masaüstü\prj-28.12.2022 - 22.51\projeOdevi\projeOdevi\bin\Debug\projeOdevi.pdb
+C:\Users\oztas\OneDrive\Masaüstü\prj-28.12.2022 - 22.51\projeOdevi\projeOdevi\bin\Debug\EntityFramework.dll
+C:\Users\oztas\OneDrive\Masaüstü\prj-28.12.2022 - 22.51\projeOdevi\projeOdevi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\oztas\OneDrive\Masaüstü\prj-28.12.2022 - 22.51\projeOdevi\projeOdevi\bin\Debug\EntityFramework.xml
+C:\Users\oztas\OneDrive\Masaüstü\prj-28.12.2022 - 22.51\projeOdevi\projeOdevi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\oztas\OneDrive\Masaüstü\prj-28.12.2022 - 22.51\projeOdevi\projeOdevi\obj\Debug\projeOdevi.csproj.AssemblyReference.cache
+C:\Users\oztas\OneDrive\Masaüstü\prj-28.12.2022 - 22.51\projeOdevi\projeOdevi\obj\Debug\projeOdevi.csproj.SuggestedBindingRedirects.cache
+C:\Users\oztas\OneDrive\Masaüstü\prj-28.12.2022 - 22.51\projeOdevi\projeOdevi\obj\Debug\projeOdevi.AnaSayfa.resources
+C:\Users\oztas\OneDrive\Masaüstü\prj-28.12.2022 - 22.51\projeOdevi\projeOdevi\obj\Debug\projeOdevi.Forum.resources
+C:\Users\oztas\OneDrive\Masaüstü\prj-28.12.2022 - 22.51\projeOdevi\projeOdevi\obj\Debug\projeOdevi.login.resources
+C:\Users\oztas\OneDrive\Masaüstü\prj-28.12.2022 - 22.51\projeOdevi\projeOdevi\obj\Debug\projeOdevi.Musteriler.resources
+C:\Users\oztas\OneDrive\Masaüstü\prj-28.12.2022 - 22.51\projeOdevi\projeOdevi\obj\Debug\projeOdevi.Profil.resources
+C:\Users\oztas\OneDrive\Masaüstü\prj-28.12.2022 - 22.51\projeOdevi\projeOdevi\obj\Debug\projeOdevi.Properties.Resources.resources
+C:\Users\oztas\OneDrive\Masaüstü\prj-28.12.2022 - 22.51\projeOdevi\projeOdevi\obj\Debug\projeOdevi.sifreunuttum.resources
+C:\Users\oztas\OneDrive\Masaüstü\prj-28.12.2022 - 22.51\projeOdevi\projeOdevi\obj\Debug\projeOdevi.csproj.GenerateResource.cache
+C:\Users\oztas\OneDrive\Masaüstü\prj-28.12.2022 - 22.51\projeOdevi\projeOdevi\obj\Debug\projeOdevi.csproj.CoreCompileInputs.cache
+C:\Users\oztas\OneDrive\Masaüstü\prj-28.12.2022 - 22.51\projeOdevi\projeOdevi\obj\Debug\projeOdevi.csproj.CopyComplete
+C:\Users\oztas\OneDrive\Masaüstü\prj-28.12.2022 - 22.51\projeOdevi\projeOdevi\obj\Debug\projeOdevi.exe
+C:\Users\oztas\OneDrive\Masaüstü\prj-28.12.2022 - 22.51\projeOdevi\projeOdevi\obj\Debug\projeOdevi.pdb
+C:\Users\oztas\OneDrive\Masaüstü\prj-28.12.2022 - 01.20\projeOdevi\projeOdevi\bin\Debug\projeOdevi.exe.config
+C:\Users\oztas\OneDrive\Masaüstü\prj-28.12.2022 - 01.20\projeOdevi\projeOdevi\bin\Debug\projeOdevi.exe
+C:\Users\oztas\OneDrive\Masaüstü\prj-28.12.2022 - 01.20\projeOdevi\projeOdevi\bin\Debug\projeOdevi.pdb
+C:\Users\oztas\OneDrive\Masaüstü\prj-28.12.2022 - 01.20\projeOdevi\projeOdevi\bin\Debug\EntityFramework.dll
+C:\Users\oztas\OneDrive\Masaüstü\prj-28.12.2022 - 01.20\projeOdevi\projeOdevi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\oztas\OneDrive\Masaüstü\prj-28.12.2022 - 01.20\projeOdevi\projeOdevi\bin\Debug\EntityFramework.xml
+C:\Users\oztas\OneDrive\Masaüstü\prj-28.12.2022 - 01.20\projeOdevi\projeOdevi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\oztas\OneDrive\Masaüstü\prj-28.12.2022 - 01.20\projeOdevi\projeOdevi\obj\Debug\projeOdevi.csproj.AssemblyReference.cache
+C:\Users\oztas\OneDrive\Masaüstü\prj-28.12.2022 - 01.20\projeOdevi\projeOdevi\obj\Debug\projeOdevi.csproj.SuggestedBindingRedirects.cache
+C:\Users\oztas\OneDrive\Masaüstü\prj-28.12.2022 - 01.20\projeOdevi\projeOdevi\obj\Debug\projeOdevi.AnaSayfa.resources
+C:\Users\oztas\OneDrive\Masaüstü\prj-28.12.2022 - 01.20\projeOdevi\projeOdevi\obj\Debug\projeOdevi.Forum.resources
+C:\Users\oztas\OneDrive\Masaüstü\prj-28.12.2022 - 01.20\projeOdevi\projeOdevi\obj\Debug\projeOdevi.login.resources
+C:\Users\oztas\OneDrive\Masaüstü\prj-28.12.2022 - 01.20\projeOdevi\projeOdevi\obj\Debug\projeOdevi.Musteriler.resources
+C:\Users\oztas\OneDrive\Masaüstü\prj-28.12.2022 - 01.20\projeOdevi\projeOdevi\obj\Debug\projeOdevi.Profil.resources
+C:\Users\oztas\OneDrive\Masaüstü\prj-28.12.2022 - 01.20\projeOdevi\projeOdevi\obj\Debug\projeOdevi.Properties.Resources.resources
+C:\Users\oztas\OneDrive\Masaüstü\prj-28.12.2022 - 01.20\projeOdevi\projeOdevi\obj\Debug\projeOdevi.sifreunuttum.resources
+C:\Users\oztas\OneDrive\Masaüstü\prj-28.12.2022 - 01.20\projeOdevi\projeOdevi\obj\Debug\projeOdevi.csproj.GenerateResource.cache
+C:\Users\oztas\OneDrive\Masaüstü\prj-28.12.2022 - 01.20\projeOdevi\projeOdevi\obj\Debug\projeOdevi.csproj.CoreCompileInputs.cache
+C:\Users\oztas\OneDrive\Masaüstü\prj-28.12.2022 - 01.20\projeOdevi\projeOdevi\obj\Debug\projeOdevi.csproj.CopyComplete
+C:\Users\oztas\OneDrive\Masaüstü\prj-28.12.2022 - 01.20\projeOdevi\projeOdevi\obj\Debug\projeOdevi.exe
+C:\Users\oztas\OneDrive\Masaüstü\prj-28.12.2022 - 01.20\projeOdevi\projeOdevi\obj\Debug\projeOdevi.pdb
+C:\Users\oztas\OneDrive\Masaüstü\prj-28.12.2022 - 01.20\projeOdevi\projeOdevi\obj\Debug\projeOdevi.Islemler.resources
+C:\Users\oztas\OneDrive\Masaüstü\prj-28.12.2022 - 01.20\projeOdevi\projeOdevi\obj\Debug\projeOdevi.SifreDegistir.resources
+C:\Users\oztas\OneDrive\Masaüstü\prj-29.12.2022 - 15.18\projeOdevi\projeOdevi\bin\Debug\projeOdevi.exe.config
+C:\Users\oztas\OneDrive\Masaüstü\prj-29.12.2022 - 15.18\projeOdevi\projeOdevi\bin\Debug\projeOdevi.exe
+C:\Users\oztas\OneDrive\Masaüstü\prj-29.12.2022 - 15.18\projeOdevi\projeOdevi\bin\Debug\projeOdevi.pdb
+C:\Users\oztas\OneDrive\Masaüstü\prj-29.12.2022 - 15.18\projeOdevi\projeOdevi\bin\Debug\EntityFramework.dll
+C:\Users\oztas\OneDrive\Masaüstü\prj-29.12.2022 - 15.18\projeOdevi\projeOdevi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\oztas\OneDrive\Masaüstü\prj-29.12.2022 - 15.18\projeOdevi\projeOdevi\bin\Debug\EntityFramework.xml
+C:\Users\oztas\OneDrive\Masaüstü\prj-29.12.2022 - 15.18\projeOdevi\projeOdevi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\oztas\OneDrive\Masaüstü\prj-29.12.2022 - 15.18\projeOdevi\projeOdevi\obj\Debug\projeOdevi.csproj.AssemblyReference.cache
+C:\Users\oztas\OneDrive\Masaüstü\prj-29.12.2022 - 15.18\projeOdevi\projeOdevi\obj\Debug\projeOdevi.csproj.SuggestedBindingRedirects.cache
+C:\Users\oztas\OneDrive\Masaüstü\prj-29.12.2022 - 15.18\projeOdevi\projeOdevi\obj\Debug\projeOdevi.AnaSayfa.resources
+C:\Users\oztas\OneDrive\Masaüstü\prj-29.12.2022 - 15.18\projeOdevi\projeOdevi\obj\Debug\projeOdevi.Forum.resources
+C:\Users\oztas\OneDrive\Masaüstü\prj-29.12.2022 - 15.18\projeOdevi\projeOdevi\obj\Debug\projeOdevi.Islemler.resources
+C:\Users\oztas\OneDrive\Masaüstü\prj-29.12.2022 - 15.18\projeOdevi\projeOdevi\obj\Debug\projeOdevi.login.resources
+C:\Users\oztas\OneDrive\Masaüstü\prj-29.12.2022 - 15.18\projeOdevi\projeOdevi\obj\Debug\projeOdevi.Musteriler.resources
+C:\Users\oztas\OneDrive\Masaüstü\prj-29.12.2022 - 15.18\projeOdevi\projeOdevi\obj\Debug\projeOdevi.Profil.resources
+C:\Users\oztas\OneDrive\Masaüstü\prj-29.12.2022 - 15.18\projeOdevi\projeOdevi\obj\Debug\projeOdevi.Properties.Resources.resources
+C:\Users\oztas\OneDrive\Masaüstü\prj-29.12.2022 - 15.18\projeOdevi\projeOdevi\obj\Debug\projeOdevi.SifreDegistir.resources
+C:\Users\oztas\OneDrive\Masaüstü\prj-29.12.2022 - 15.18\projeOdevi\projeOdevi\obj\Debug\projeOdevi.sifreunuttum.resources
+C:\Users\oztas\OneDrive\Masaüstü\prj-29.12.2022 - 15.18\projeOdevi\projeOdevi\obj\Debug\projeOdevi.csproj.GenerateResource.cache
+C:\Users\oztas\OneDrive\Masaüstü\prj-29.12.2022 - 15.18\projeOdevi\projeOdevi\obj\Debug\projeOdevi.csproj.CoreCompileInputs.cache
+C:\Users\oztas\OneDrive\Masaüstü\prj-29.12.2022 - 15.18\projeOdevi\projeOdevi\obj\Debug\projeOdevi.csproj.CopyComplete
+C:\Users\oztas\OneDrive\Masaüstü\prj-29.12.2022 - 15.18\projeOdevi\projeOdevi\obj\Debug\projeOdevi.exe
+C:\Users\oztas\OneDrive\Masaüstü\prj-29.12.2022 - 15.18\projeOdevi\projeOdevi\obj\Debug\projeOdevi.pdb
+C:\Users\oztas\OneDrive\Masaüstü\prj-29.12.2022 - 22.00\projeOdevi\projeOdevi\bin\Debug\projeOdevi.exe.config
+C:\Users\oztas\OneDrive\Masaüstü\prj-29.12.2022 - 22.00\projeOdevi\projeOdevi\bin\Debug\projeOdevi.exe
+C:\Users\oztas\OneDrive\Masaüstü\prj-29.12.2022 - 22.00\projeOdevi\projeOdevi\bin\Debug\projeOdevi.pdb
+C:\Users\oztas\OneDrive\Masaüstü\prj-29.12.2022 - 22.00\projeOdevi\projeOdevi\bin\Debug\EntityFramework.dll
+C:\Users\oztas\OneDrive\Masaüstü\prj-29.12.2022 - 22.00\projeOdevi\projeOdevi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\oztas\OneDrive\Masaüstü\prj-29.12.2022 - 22.00\projeOdevi\projeOdevi\bin\Debug\EntityFramework.xml
+C:\Users\oztas\OneDrive\Masaüstü\prj-29.12.2022 - 22.00\projeOdevi\projeOdevi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\oztas\OneDrive\Masaüstü\prj-29.12.2022 - 22.00\projeOdevi\projeOdevi\obj\Debug\projeOdevi.csproj.AssemblyReference.cache
+C:\Users\oztas\OneDrive\Masaüstü\prj-29.12.2022 - 22.00\projeOdevi\projeOdevi\obj\Debug\projeOdevi.csproj.SuggestedBindingRedirects.cache
+C:\Users\oztas\OneDrive\Masaüstü\prj-29.12.2022 - 22.00\projeOdevi\projeOdevi\obj\Debug\projeOdevi.AnaSayfa.resources
+C:\Users\oztas\OneDrive\Masaüstü\prj-29.12.2022 - 22.00\projeOdevi\projeOdevi\obj\Debug\projeOdevi.Forum.resources
+C:\Users\oztas\OneDrive\Masaüstü\prj-29.12.2022 - 22.00\projeOdevi\projeOdevi\obj\Debug\projeOdevi.Islemler.resources
+C:\Users\oztas\OneDrive\Masaüstü\prj-29.12.2022 - 22.00\projeOdevi\projeOdevi\obj\Debug\projeOdevi.login.resources
+C:\Users\oztas\OneDrive\Masaüstü\prj-29.12.2022 - 22.00\projeOdevi\projeOdevi\obj\Debug\projeOdevi.Musteriler.resources
+C:\Users\oztas\OneDrive\Masaüstü\prj-29.12.2022 - 22.00\projeOdevi\projeOdevi\obj\Debug\projeOdevi.Profil.resources
+C:\Users\oztas\OneDrive\Masaüstü\prj-29.12.2022 - 22.00\projeOdevi\projeOdevi\obj\Debug\projeOdevi.Properties.Resources.resources
+C:\Users\oztas\OneDrive\Masaüstü\prj-29.12.2022 - 22.00\projeOdevi\projeOdevi\obj\Debug\projeOdevi.SifreDegistir.resources
+C:\Users\oztas\OneDrive\Masaüstü\prj-29.12.2022 - 22.00\projeOdevi\projeOdevi\obj\Debug\projeOdevi.sifreunuttum.resources
+C:\Users\oztas\OneDrive\Masaüstü\prj-29.12.2022 - 22.00\projeOdevi\projeOdevi\obj\Debug\projeOdevi.csproj.GenerateResource.cache
+C:\Users\oztas\OneDrive\Masaüstü\prj-29.12.2022 - 22.00\projeOdevi\projeOdevi\obj\Debug\projeOdevi.csproj.CoreCompileInputs.cache
+C:\Users\oztas\OneDrive\Masaüstü\prj-29.12.2022 - 22.00\projeOdevi\projeOdevi\obj\Debug\projeOdevi.csproj.CopyComplete
+C:\Users\oztas\OneDrive\Masaüstü\prj-29.12.2022 - 22.00\projeOdevi\projeOdevi\obj\Debug\projeOdevi.exe
+C:\Users\oztas\OneDrive\Masaüstü\prj-29.12.2022 - 22.00\projeOdevi\projeOdevi\obj\Debug\projeOdevi.pdb
+C:\Users\oztas\OneDrive\Masaüstü\prj-23.01.23 - 16.19\projeOdevi\projeOdevi\obj\Debug\projeOdevi.csproj.AssemblyReference.cache
+C:\Users\oztas\OneDrive\Masaüstü\prj-23.01.23 - 16.19\projeOdevi\projeOdevi\obj\Debug\projeOdevi.csproj.SuggestedBindingRedirects.cache
+C:\Users\oztas\OneDrive\Masaüstü\prj-23.01.23 - 16.19\projeOdevi\projeOdevi\obj\Debug\projeOdevi.AnaSayfa.resources
+C:\Users\oztas\OneDrive\Masaüstü\prj-23.01.23 - 16.19\projeOdevi\projeOdevi\obj\Debug\projeOdevi.Forum.resources
+C:\Users\oztas\OneDrive\Masaüstü\prj-23.01.23 - 16.19\projeOdevi\projeOdevi\obj\Debug\projeOdevi.Islemler.resources
+C:\Users\oztas\OneDrive\Masaüstü\prj-23.01.23 - 16.19\projeOdevi\projeOdevi\obj\Debug\projeOdevi.login.resources
+C:\Users\oztas\OneDrive\Masaüstü\prj-23.01.23 - 16.19\projeOdevi\projeOdevi\obj\Debug\projeOdevi.Musteriler.resources
+C:\Users\oztas\OneDrive\Masaüstü\prj-23.01.23 - 16.19\projeOdevi\projeOdevi\obj\Debug\projeOdevi.Profil.resources
+C:\Users\oztas\OneDrive\Masaüstü\prj-23.01.23 - 16.19\projeOdevi\projeOdevi\obj\Debug\projeOdevi.Properties.Resources.resources
+C:\Users\oztas\OneDrive\Masaüstü\prj-23.01.23 - 16.19\projeOdevi\projeOdevi\obj\Debug\projeOdevi.SifreDegistir.resources
+C:\Users\oztas\OneDrive\Masaüstü\prj-23.01.23 - 16.19\projeOdevi\projeOdevi\obj\Debug\projeOdevi.sifreunuttum.resources
+C:\Users\oztas\OneDrive\Masaüstü\prj-23.01.23 - 16.19\projeOdevi\projeOdevi\obj\Debug\projeOdevi.csproj.GenerateResource.cache
+C:\Users\oztas\OneDrive\Masaüstü\prj-23.01.23 - 16.19\projeOdevi\projeOdevi\obj\Debug\projeOdevi.csproj.CoreCompileInputs.cache
+C:\Users\oztas\OneDrive\Masaüstü\prj-23.01.23 - 16.19\projeOdevi\projeOdevi\obj\Debug\projeOdevi.exe
+C:\Users\oztas\OneDrive\Masaüstü\prj-23.01.23 - 16.19\projeOdevi\projeOdevi\obj\Debug\projeOdevi.pdb
+C:\Users\oztas\OneDrive\Masaüstü\prj-23.01.23 - 16.19\projeOdevi\projeOdevi\bin\Debug\projeOdevi.exe.config
+C:\Users\oztas\OneDrive\Masaüstü\prj-23.01.23 - 16.19\projeOdevi\projeOdevi\bin\Debug\projeOdevi.exe
+C:\Users\oztas\OneDrive\Masaüstü\prj-23.01.23 - 16.19\projeOdevi\projeOdevi\bin\Debug\projeOdevi.pdb
+C:\Users\oztas\OneDrive\Masaüstü\prj-23.01.23 - 16.19\projeOdevi\projeOdevi\bin\Debug\EntityFramework.dll
+C:\Users\oztas\OneDrive\Masaüstü\prj-23.01.23 - 16.19\projeOdevi\projeOdevi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\oztas\OneDrive\Masaüstü\prj-23.01.23 - 16.19\projeOdevi\projeOdevi\bin\Debug\EntityFramework.xml
+C:\Users\oztas\OneDrive\Masaüstü\prj-23.01.23 - 16.19\projeOdevi\projeOdevi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\oztas\OneDrive\Masaüstü\prj-23.01.23 - 16.19\projeOdevi\projeOdevi\obj\Debug\projeOdevi.csproj.CopyComplete
+C:\Users\oztas\OneDrive\Masaüstü\prj-28.01.23-17.24\projeOdevi\projeOdevi\bin\Debug\projeOdevi.exe.config
+C:\Users\oztas\OneDrive\Masaüstü\prj-28.01.23-17.24\projeOdevi\projeOdevi\bin\Debug\projeOdevi.exe
+C:\Users\oztas\OneDrive\Masaüstü\prj-28.01.23-17.24\projeOdevi\projeOdevi\bin\Debug\projeOdevi.pdb
+C:\Users\oztas\OneDrive\Masaüstü\prj-28.01.23-17.24\projeOdevi\projeOdevi\bin\Debug\EntityFramework.dll
+C:\Users\oztas\OneDrive\Masaüstü\prj-28.01.23-17.24\projeOdevi\projeOdevi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\oztas\OneDrive\Masaüstü\prj-28.01.23-17.24\projeOdevi\projeOdevi\bin\Debug\EntityFramework.xml
+C:\Users\oztas\OneDrive\Masaüstü\prj-28.01.23-17.24\projeOdevi\projeOdevi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\oztas\OneDrive\Masaüstü\prj-28.01.23-17.24\projeOdevi\projeOdevi\obj\Debug\projeOdevi.csproj.AssemblyReference.cache
+C:\Users\oztas\OneDrive\Masaüstü\prj-28.01.23-17.24\projeOdevi\projeOdevi\obj\Debug\projeOdevi.csproj.SuggestedBindingRedirects.cache
+C:\Users\oztas\OneDrive\Masaüstü\prj-28.01.23-17.24\projeOdevi\projeOdevi\obj\Debug\projeOdevi.AnaSayfa.resources
+C:\Users\oztas\OneDrive\Masaüstü\prj-28.01.23-17.24\projeOdevi\projeOdevi\obj\Debug\projeOdevi.Forum.resources
+C:\Users\oztas\OneDrive\Masaüstü\prj-28.01.23-17.24\projeOdevi\projeOdevi\obj\Debug\projeOdevi.Islemler.resources
+C:\Users\oztas\OneDrive\Masaüstü\prj-28.01.23-17.24\projeOdevi\projeOdevi\obj\Debug\projeOdevi.login.resources
+C:\Users\oztas\OneDrive\Masaüstü\prj-28.01.23-17.24\projeOdevi\projeOdevi\obj\Debug\projeOdevi.Musteriler.resources
+C:\Users\oztas\OneDrive\Masaüstü\prj-28.01.23-17.24\projeOdevi\projeOdevi\obj\Debug\projeOdevi.Profil.resources
+C:\Users\oztas\OneDrive\Masaüstü\prj-28.01.23-17.24\projeOdevi\projeOdevi\obj\Debug\projeOdevi.Properties.Resources.resources
+C:\Users\oztas\OneDrive\Masaüstü\prj-28.01.23-17.24\projeOdevi\projeOdevi\obj\Debug\projeOdevi.SifreDegistir.resources
+C:\Users\oztas\OneDrive\Masaüstü\prj-28.01.23-17.24\projeOdevi\projeOdevi\obj\Debug\projeOdevi.sifreunuttum.resources
+C:\Users\oztas\OneDrive\Masaüstü\prj-28.01.23-17.24\projeOdevi\projeOdevi\obj\Debug\projeOdevi.csproj.GenerateResource.cache
+C:\Users\oztas\OneDrive\Masaüstü\prj-28.01.23-17.24\projeOdevi\projeOdevi\obj\Debug\projeOdevi.csproj.CoreCompileInputs.cache
+C:\Users\oztas\OneDrive\Masaüstü\prj-28.01.23-17.24\projeOdevi\projeOdevi\obj\Debug\projeOdevi.csproj.CopyComplete
+C:\Users\oztas\OneDrive\Masaüstü\prj-28.01.23-17.24\projeOdevi\projeOdevi\obj\Debug\projeOdevi.exe
+C:\Users\oztas\OneDrive\Masaüstü\prj-28.01.23-17.24\projeOdevi\projeOdevi\obj\Debug\projeOdevi.pdb
+C:\Users\oztas\OneDrive\Masaüstü\prj-28.01.23-17.24 (2)\prj-28.01.23-17.24\projeOdevi\projeOdevi\obj\Debug\projeOdevi.csproj.AssemblyReference.cache
+C:\Users\oztas\OneDrive\Masaüstü\prj-28.01.23-17.24 (2)\prj-28.01.23-17.24\projeOdevi\projeOdevi\obj\Debug\projeOdevi.csproj.SuggestedBindingRedirects.cache
+C:\Users\oztas\OneDrive\Masaüstü\prj-28.01.23-17.24 (2)\prj-28.01.23-17.24\projeOdevi\projeOdevi\obj\Debug\projeOdevi.exe
+C:\Users\oztas\OneDrive\Masaüstü\prj-28.01.23-17.24 (2)\prj-28.01.23-17.24\projeOdevi\projeOdevi\obj\Debug\projeOdevi.pdb

@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="CRMModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'CRM.dbo.Personel' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="Personel">
+    <Key>
+      <PropertyRef Name="P_id" />
+    </Key>
+    <Property Name="P_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="tc" Type="nvarchar" MaxLength="11" />
+    <Property Name="ad" Type="nvarchar" MaxLength="50" />
+    <Property Name="soyad" Type="nvarchar" MaxLength="50" />
+    <Property Name="cinsiyet" Type="nvarchar" MaxLength="5" />
+    <Property Name="dogum_tarihi" Type="date" />
+    <Property Name="gorev" Type="nvarchar" MaxLength="50" />
+    <Property Name="tel1" Type="int" />
+    <Property Name="tel2" Type="int" />
+    <Property Name="ep1" Type="nvarchar" MaxLength="50" />
+    <Property Name="ep2" Type="nvarchar" MaxLength="50" />
+    <Property Name="adres" Type="nvarchar(max)" />
+    <Property Name="il" Type="nvarchar(max)" />
+    <Property Name="ilce" Type="nvarchar(max)" />
+    <Property Name="yetki" Type="int" />
+    <Property Name="sifre" Type="nvarchar" MaxLength="50" />
+    <Property Name="foto" Type="nvarchar(max)" />
+  </EntityType>
+  <EntityContainer Name="CRMModelStoreContainer">
+    <EntitySet Name="Personel" EntityType="Self.Personel" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [Personel].[P_id] AS [P_id], 
+    [Personel].[tc] AS [tc], 
+    [Personel].[ad] AS [ad], 
+    [Personel].[soyad] AS [soyad], 
+    [Personel].[cinsiyet] AS [cinsiyet], 
+    [Personel].[dogum_tarihi] AS [dogum_tarihi], 
+    [Personel].[gorev] AS [gorev], 
+    [Personel].[tel1] AS [tel1], 
+    [Personel].[tel2] AS [tel2], 
+    [Personel].[ep1] AS [ep1], 
+    [Personel].[ep2] AS [ep2], 
+    [Personel].[adres] AS [adres], 
+    [Personel].[il] AS [il], 
+    [Personel].[ilce] AS [ilce], 
+    [Personel].[yetki] AS [yetki], 
+    [Personel].[sifre] AS [sifre], 
+    [Personel].[foto] AS [foto]
+    FROM [dbo].[Personel] AS [Personel]</DefiningQuery>
+    </EntitySet>
+  </EntityContainer>
+</Schema>
